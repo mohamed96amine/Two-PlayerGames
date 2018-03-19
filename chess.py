@@ -6,7 +6,7 @@ import player as Player
 """
  .. topic:: Module ``abstractgame``
 
-   :author: `FIL - IEEA - Univ. Lille1.fr <http://portail.fil.univ-lille1.fr>`_
+   :author: `Mohamed Amine ELBACHRA`_
    
    :date:  2015, october
    

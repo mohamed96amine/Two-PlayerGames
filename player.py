@@ -4,7 +4,7 @@
 """
 :mod:`player` module
 
-:author: FIL - IEEA - Univ. Lille1.fr <http://portail.fil.univ-lille1.fr>_
+:author: `Mohamed Amine ELBACHRA`_
 
 :date: November, 2015
 
